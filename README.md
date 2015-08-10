@@ -1,3 +1,5 @@
+These files represent my response to the following code challenge I received as part of an interview process. I've redacted the name of the company and the download link for the dataset:
+
 #Word Frequency
 
 Consider a list of sets of words (each set of words is called a record) and a single set of words (called the query). For each word that is not in the query, how many times does the word appear in all records that the entire query is present in? Output a dictionary of words to counts, omitting words with counts of zero. Given a list of records and a list of queries, determine the output for each query with respect to the entire list of records.
