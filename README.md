@@ -1,3 +1,6 @@
+[![Build
+Status](https://travis-ci.org/cheesesashimi/Word-Frequency.svg?branch=master)](https://travis-ci.org/cheesesashimi/Word-Frequency)
+
 These files represent my response to the following code challenge I received as part of an interview process. I've redacted the name of the company and the download link for the dataset:
 
 #Word Frequency
