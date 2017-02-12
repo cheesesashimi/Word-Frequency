@@ -66,12 +66,12 @@ def main():
   record_file = open('records.txt', 'ro')
   query_file = open('queries.txt', 'ro')
 
-  print 'Parsing records and queries.'
+  print('Parsing records and queries.')
 
   parsed_queries = parse_queries(query_file.read().splitlines())
   parsed_records = parse_records(record_file.read().splitlines())
 
-  print 'Finished parsing, running queries.'
+  print('Finished parsing, running queries.')
 
   record_file.close()
   query_file.close()

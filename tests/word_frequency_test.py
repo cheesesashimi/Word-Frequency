@@ -2,7 +2,7 @@
 
 from collections import Counter
 from collections import deque
-import word_frequency
+from solution import word_frequency
 import unittest
 
 
